@@ -45,13 +45,11 @@ I'm a SOC Analyst based in the UK. I started in IT support and moved into securi
 
 ```
 ├── README.md
+├── Certifications/
 ├── projects/
-│   ├── SC-200
-│   ├── ...
 ├── detections/          # KQL / Sigma rules / LEQL
 ├── writeups/            # Lab and investigation write-ups 
-├── scripts/             # Automation and tooling | Python / PowerShell / Bash
-└── study-notes/         # Certification notes 
+└── scripts/             # Automation and tooling | Python / PowerShell / Bash
 ```
 
 ---
